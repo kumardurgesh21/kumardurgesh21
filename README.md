@@ -1,3 +1,4 @@
+![logo](https://github.com/kumardurgesh21/kumardurgesh21/blob/main/readme.jpeg)
 <h1 align="center">Hi 👋, I'm Durgesh Kumar</h1>
 <h3 align="center">A passionate frontend developer and digital marketing professional from India</h3>
 
